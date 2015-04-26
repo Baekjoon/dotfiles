@@ -16,6 +16,9 @@ Plugin 'msanders/cocoa.vim'
 Plugin 'moll/vim-node'
 Plugin 'pangloss/vim-javascript'
 Plugin 'hail2u/vim-css3-syntax'
+Plugin 'groenewege/vim-less'
+Plugin 'godlygeek/tabular'
+Plugin 'plasticboy/vim-markdown'
 
 call vundle#end() 
 
