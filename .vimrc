@@ -19,6 +19,7 @@ Plugin 'hail2u/vim-css3-syntax'
 Plugin 'groenewege/vim-less'
 Plugin 'godlygeek/tabular'
 Plugin 'plasticboy/vim-markdown'
+let g:vim_markdown_folding_disabled=1
 
 call vundle#end() 
 
