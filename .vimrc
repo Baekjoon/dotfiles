@@ -19,6 +19,8 @@ Plugin 'hail2u/vim-css3-syntax'
 Plugin 'groenewege/vim-less'
 Plugin 'godlygeek/tabular'
 Plugin 'plasticboy/vim-markdown'
+Plugin 'ekalinin/Dockerfile.vim' 
+Plugin 'digitaltoad/vim-jade'
 let g:vim_markdown_folding_disabled=1
 
 call vundle#end() 
@@ -27,11 +29,11 @@ call vundle#end()
 set enc=UTF-8
 set fileencodings=UTF-8
 
-set shiftwidth=4
-set tabstop=4
+set shiftwidth=2
+set tabstop=2
 set expandtab
 set smarttab
-set softtabstop=4
+set softtabstop=2
 
 set laststatus=2
 set cindent
