@@ -22,6 +22,7 @@ Plugin 'plasticboy/vim-markdown'
 Plugin 'ekalinin/Dockerfile.vim' 
 Plugin 'digitaltoad/vim-jade'
 let g:vim_markdown_folding_disabled=1
+Plugin 'editorconfig/editorconfig-vim'
 
 call vundle#end() 
 
