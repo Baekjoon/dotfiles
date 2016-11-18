@@ -32,11 +32,11 @@ call vundle#end()
 set enc=UTF-8
 set fileencodings=UTF-8
 
-set shiftwidth=2
-set tabstop=2
+set shiftwidth=4
+set tabstop=4
 set expandtab
 set smarttab
-set softtabstop=2
+set softtabstop=4
 
 set laststatus=2
 set cindent
