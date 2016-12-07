@@ -25,6 +25,7 @@ let g:vim_markdown_folding_disabled=1
 Plugin 'editorconfig/editorconfig-vim'
 Plugin 'fatih/vim-go'
 Plugin 'chase/vim-ansible-yaml'
+Plugin 'leafgarland/typescript-vim'
 
 call vundle#end() 
 
