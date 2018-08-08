@@ -63,3 +63,4 @@ set ai
 set nu
 
 au BufNewFile,BufRead *.ejs set filetype=html
+au BufNewFile,BufRead *.py3 set filetype=python
