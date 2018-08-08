@@ -62,5 +62,4 @@ set showmatch
 set ai
 set nu
 
-au BufNewFile,BufRead *.cpp set syntax=cpp11
 au BufNewFile,BufRead *.ejs set filetype=html
