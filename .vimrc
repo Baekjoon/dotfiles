@@ -10,7 +10,10 @@ Plugin 'othree/html5.vim'
 Plugin 'othree/javascript-libraries-syntax.vim'
 let g:used_javascript_libs = 'jquery, angularjs'
 Plugin 'vim-scripts/smarty-syntax'
-Plugin 'vim-scripts/Cpp11-Syntax-Support'
+Plugin 'bfrg/vim-cpp-modern'
+let g:cpp_simple_highlight = 1
+let g:cpp_concepts_highlight = 1
+let c_no_curly_error = 1
 Plugin 'elzr/vim-json'
 Plugin 'msanders/cocoa.vim'
 Plugin 'moll/vim-node'
